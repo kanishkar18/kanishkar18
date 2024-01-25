@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanishkar18
 - 👀 I’m interested in data science and cloud computing
-- 🌱 I’m currently learning data science(ibm) from coursera and cloud computing (ibm) from coursera
+- 🌱
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me kanishkar182000@gmail.com
 
